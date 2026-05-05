@@ -1,0 +1,2 @@
+# Sheets-to-Contacts-CRM-Automator-Alternative-WhatsApp-Broadcast-Google-Contacts-Sync-Engine-
+A robust, automated Google Apps Script solution that transforms any standard Google Sheet into a lightweight CRM. It allows users to bulk-export categorized contacts into neatly organized, WhatsApp-ready CSV files directly within Google Drive. Furthermore, it features a direct integration with the Google People API to sync contacts to phone
